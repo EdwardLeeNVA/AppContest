@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">TypingScreeAppProject</string>
     <string name="sent_value">SEND</string>
+    <string name="entry_text">Type Here</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
 </resources>
